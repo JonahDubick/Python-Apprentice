@@ -5,8 +5,6 @@ lines inside the three quotes are also comments, but of a different sort (
 called "doc comments" ) Comments are used to explain what the code does. Read
 the program and try to understand what each line does.
 
-
-
 """
 
 import turtle                           # Tell Python we want to work with the turtle

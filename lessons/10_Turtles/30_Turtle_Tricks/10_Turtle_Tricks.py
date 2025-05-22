@@ -10,13 +10,18 @@ Copy lines of code from those programs to this one to draw a triangle.
 # These lines are needed in most turtle programs
 import turtle                           # Tell Python we want to work with the turtle
 turtle.setup(600,600,0,0)               # Set the size of the window
-
+turtle
 tina = turtle.Turtle()                  # Create a turtle named tina
 
 # Use tina.forward() and tina.left() to draw a triangle
 # Make each side of the triangle a different color with 
 # tina.pencolor()
 
-... # Your code here
+tina.forward(50)
+tina.left(50)                    # Close the window when we click on it
 
+tina.left(50)
+tina.forward
+tina.right(50)
+tina.left(50)# Your code here
 turtle.exitonclick()                    # Close the window when we click on it
